@@ -1,0 +1,4 @@
+name = "Qwen 3.7 Max"
+
+[extends]
+from = "alibaba/qwen3-max"
